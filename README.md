@@ -1,2 +1,2 @@
 # c_texts
-Texts made in cesupa classes
+C texts made in cesupa classes with the instructions of prof. Casseb 
